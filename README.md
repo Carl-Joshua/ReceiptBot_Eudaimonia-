@@ -1,2 +1,2 @@
 # ReceiptBot_Eudaimonia-
-bot that distribute receipts to consumers.
+A Python script that utilizes AutoGUI to perform an automated receipt ditribution process. Script will read and clean data from a file-system database, then generate a dataframe in which the script AutoGUI will read and use to execute the given commands. The script also provides an automated message stating the details of the receipt and send it to each students with their preferred method of communication.
